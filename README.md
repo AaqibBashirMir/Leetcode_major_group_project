@@ -17,6 +17,11 @@ right and left as per the requirements.Similarly i have created another para tag
 part, in which i have created two divs upper and lower,similarly i have used h and para tgs also there inorder to write the texts, after to the <br>
 middle body part i have created section heading and button, i have also used material icons for some required icons.This was briefly about html<br>
 structure.
+<h2>CSS Part</h2>
+In css i have used flex property the most i have used font weight,size and font family also, to the hero body part i have taken box shadow and used hover <br>
+property text shadow, for overflow i have taken scroll but with the help of webkit property i have keep hidden this scroll  bar, at last i have learned a lot<br>
+from the given project i have learned flex property in a very depth.Moreover i would like to modify this project by applying java script in my upcoming modules<br>
+so that it will be known a future challenging project
 
 
 
